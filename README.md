@@ -1,6 +1,6 @@
 # Spawn Weapons
 
-![GitHub all releases](https://img.shields.io/github/downloads/InsultingPros/SpawnWeapons/total)
+[![GitHub all releases](https://img.shields.io/github/downloads/InsultingPros/SpawnWeapons/total)](https://github.com/InsultingPros/SpawnWeapons/releases)
 
 Allows to remove-change spawn weapons and optionally give armor.
 
